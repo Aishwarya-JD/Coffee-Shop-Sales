@@ -171,9 +171,21 @@ Based on the analysis:
 
 --- 
 
+## 🙏 Acknowledgments
+
+I would like to express my sincere gratitude to **Ayushi Jain** for her guidance, support, and valuable learning resources throughout this project.
+
+Special thanks to **WsCube Tech** for providing high-quality data analytics training and practical industry-oriented content that helped me develop and enhance my analytical skills.
+
+Their contributions have played a significant role in the successful completion of this project.
+
+--- 
+
 ## 👨‍💻 Author **Aishwarya Jayant Dixit** Aspiring Data Analyst | Business Intelligence Enthusiast 
 LinkedIn: https://www.linkedin.com/in/aishwarya-jayant-dixit-399b56211
 
 GitHub: https://github.com/Aishwarya-JD
+
 --- 
+
 ## ⭐ If You Like This Project Please consider giving the repository a star to support future analytics projects.
